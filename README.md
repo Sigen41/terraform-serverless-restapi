@@ -1,4 +1,4 @@
-# 🚀 Serverless REST API with Terraform, Python & AWS
+#  Serverless REST API with Terraform, Python & AWS
 
 This project is a **fully serverless REST API** built using:
 - **Terraform** for infrastructure as code (IaC)
@@ -8,7 +8,7 @@ This project is a **fully serverless REST API** built using:
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 I built this project by closely following **Fabian Kaiser’s popular Udemy course**, originally designed for AWS CDK with TypeScript — but re-engineered it entirely with **Terraform and Python** for better cloud portability and IaC clarity.
 
