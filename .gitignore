@@ -1,0 +1,27 @@
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Terraform CLI directories
+.terraform/
+
+# Lambda deployment packages
+lambda/*.zip
+
+# VS Code settings
+.vscode/
+
+# Python cache
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Terraform generated files
+*.tfstate
+*.tfstate.backup
+.terraform/
+lambda/*.zip
+.vscode/
+__pycache__/
