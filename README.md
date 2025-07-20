@@ -45,21 +45,3 @@ curl -X POST https://{api-id}.execute-api.{region}.amazonaws.com/dev/items \
 
 5 **Destroy infrastructure when done** (avoid costs)
 terraform destroy -auto-approve
-
-
- LICENSE
-
- 
----
-
-## ✅ Next:
-- Replace the placeholder Medium and LinkedIn links with your actual profile URLs
-- Copy this into a `README.md` file at your project root
-- Commit and push:
-
-```bash
-git add README.md
-git commit -m "Add professional README"
-git push
-
-
